@@ -1,0 +1,49 @@
+{
+  "festivals": [
+    {
+      "name": "Omega Festival",
+      "bands": [
+        {
+          "name": "X",
+          "recordLabel": "1"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "bands": [
+        {
+          "name": "Y",
+          "recordLabel": "1"
+        }
+      ]
+    },
+    {
+      "name": "Alpha789 Festival",
+      "bands": [
+        {
+          "name": "A",
+          "recordLabel": "2"
+        }
+      ]
+    },
+    {
+      "name": "Beta Festival",
+      "bands": [
+        {
+          "name": "A",
+          "recordLabel": "2"
+        }
+      ]
+    },
+    {
+      "name": "Alpha345 Festival",
+      "bands": [
+        {
+          "name": "A",
+          "recordLabel": "2"
+        }
+      ]
+    }
+  ]
+}
