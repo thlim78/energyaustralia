@@ -1,4 +1,4 @@
-# Energy Australia - Technical Test
+# Energy Australia Technical Test
 
 ## First Step - Set up mocking server
 * Issue `npm install -g json-server`
